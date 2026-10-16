@@ -1,0 +1,6 @@
+@MoumenProducts.API_HostAddress = http://localhost:5116
+
+GET {{MoumenProducts.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
